@@ -5,3 +5,5 @@
 - Unit tests
 - Package manager integration
 - "Continuous integration is God"
+    - Surprisingly simple to do
+- Pull request
