@@ -1,0 +1,9 @@
+name = "TestPackage"
+uuid = "57197dab-393a-46bf-b30b-72c8d9cc4a14"
+version = "0.0.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.7"
